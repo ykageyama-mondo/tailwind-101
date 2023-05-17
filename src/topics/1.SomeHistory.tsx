@@ -28,8 +28,11 @@ export const CSSIsHard = () => {
         <p className='pl-2'>• It's hard to keep track of all cascaded styles.</p>
         <p className='pl-2'>• It's hard to work around problems with specificity.</p>
         <p className='pl-2'>• It's hard to figure out where some styling is coming from.</p>
-        <p className='pl-2'>• It's hard to read CSS.</p>
         <strong>But it's hard to name my classes and ids.</strong>
+        <p className='pl-2'>• It's hard come up with good names for components.</p>
+        <p className='pl-2'>• It's hard to make sure you haven't already used a name.</p>
+        <p className='pl-2'>• It's hard to remember what each class does.</p>
+        <strong>But it's hard to make sure we have no unused styles.</strong>
 
       </Details>
     </Topic>
